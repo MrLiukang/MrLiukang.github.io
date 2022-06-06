@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mrliukang.github.io</id>
+    <title>Gridea</title>
+    <updated>2022-06-06T12:47:43.407Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mrliukang.github.io"/>
+    <link rel="self" href="https://mrliukang.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://mrliukang.github.io/images/avatar.png</logo>
+    <icon>https://mrliukang.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[第二个]]></title>
+        <id>https://mrliukang.github.io/post/di-er-ge/</id>
+        <link href="https://mrliukang.github.io/post/di-er-ge/">
+        </link>
+        <updated>2022-06-06T12:37:33.000Z</updated>
+        <content type="html"><![CDATA[<p>大发顺丰</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eBPF Dev --0]]></title>
+        <id>https://mrliukang.github.io/post/bpf-dev/</id>
+        <link href="https://mrliukang.github.io/post/bpf-dev/">
+        </link>
+        <updated>2022-06-06T12:24:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>看了好多东西讲bpf怎么好的，但是网上就是么有一个说清楚坑之类的地方。所以就开个坑，写点东西，如果写的有问题，十分欢迎指正。</p>
+<p>bpf这个东西讲它是什么的很多，我这里就不再多说。简单一句话概括：让你在用户态左右内核的行为。</p>
+<p><a href="https://www.bilibili.com/video/BV17t4y1x7kV?spm_id_from=333.337.search-card.all.click">这个视频讲的挺好的由浅入深</a>可以多看几遍。<br>
+当然github上的bcc项目/bpftrace项目也是必须要看的</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>看了好多东西讲bpf怎么好的，但是网上就是么有一个说清楚坑之类的地方。所以就开个坑，写点东西，如果写的有问题，十分欢迎指正。</p>
+<p>bpf这个东西讲它是什么的很多，我这里就不再多说。简单一句话概括：让你在用户态左右内核的行为。</p>
+<p><a href="https://www.bilibili.com/video/BV17t4y1x7kV?spm_id_from=333.337.search-card.all.click">这个视频讲的挺好的由浅入深</a>可以多看几遍。<br>
+当然github上的bcc项目/bpftrace项目也是必须要看的</p>
+<!-- more -->
+]]></content>
+    </entry>
+</feed>
